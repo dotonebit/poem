@@ -1,1 +1,3 @@
-Write a poem.
+Branches intertwine, 
+Commits tell a tale, 
+Git, keeper of code.
